@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(129, 207, 255);
+}
+
+.card {
+    transform: scale(1.5);
+    background-color: rgb(180, 226, 255);
+
+    display: inline-block;
+    margin-left: 45%;
+    margin-right: auto;
+    margin-top: 5%;
+    width: auto;
+
+    border-color: darkgrey;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5%;
+
+    padding: 1.5rem;
+
+}
+
+.hdr {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn {
+    width: 100%;
+    background-color: rgb(129, 207, 255);
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    height: 2rem;
+}
+
+.res {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.frm {
+    width: 95%;
+    border-radius: 5px;
+    border-width: 1px;
+    color: rgb(111, 111, 111);
+    background-color: rgb(233, 246, 254);
+}
